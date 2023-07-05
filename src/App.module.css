@@ -1,0 +1,10 @@
+.AppComp{
+  width: 100%;
+  background-color: var(--bg_gray) ;
+}
+
+.container{
+  width: 90%;
+  margin:auto;
+}
+
