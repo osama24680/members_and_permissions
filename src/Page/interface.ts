@@ -8,3 +8,6 @@ export interface Person {
     country:string;
 
 }
+export interface Values{
+    name:string;
+}
